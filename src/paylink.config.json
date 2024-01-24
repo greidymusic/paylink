@@ -58,22 +58,22 @@
       "img": "./images/payments/btc.svg"
     },
     {
-      "id": "bnb",
-      "label": "BNB (BSC)",
-      "value": "0x8Ec081f2ab38E8BdA5Ce7f4BeaD3CbDaCCCe55b2",
-      "img": "./images/payments/busd.svg"
+      "id": "card",
+      "label": "CUP",
+      "value": "9205-9598-7859-7799",
+      "img": "./images/payments/card.svg"
+    },
+    {
+      "id": "hive",
+      "label": "HIVE | HBD",
+      "value": "greid",
+      "img": "https://cryptologos.cc/logos/hive-blockchain-hive-logo.svg?v=023"
     },
     {
       "id": "matic",
       "label": "MATIC (Polygon)",
       "value": "0x8Ec081f2ab38E8BdA5Ce7f4BeaD3CbDaCCCe55b2",
       "img": "./images/payments/matic.svg"
-    },
-    {
-      "id": "hive",
-      "label": "HIVE | HBD",
-      "value": "",
-      "img": "./images/payments/doge.svg"
     },
     {
       "id": "eth",
@@ -118,6 +118,12 @@
       "img": "./images/payments/trx.svg"
     },
     {
+      "id": "bnb",
+      "label": "BNB (BSC)",
+      "value": "0x8Ec081f2ab38E8BdA5Ce7f4BeaD3CbDaCCCe55b2",
+      "img": "./images/payments/busd.svg"
+    },
+    {
       "id": "qvapay",
       "label": "QvaPay",
       "value": "",
@@ -129,12 +135,6 @@
       "value": "",
       "img": "./images/payments/xrp.svg"
     },
-    {
-      "id": "card",
-      "label": "Card",
-      "value": "",
-      "img": "./images/payments/card.svg"
-    }
   ],
 
   "googleAnalyticsId": "G-SOMEID"
