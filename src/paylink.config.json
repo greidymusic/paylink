@@ -106,12 +106,6 @@
       "img": "./images/payments/sol.svg"
     },
     {
-      "id": "ada",
-      "label": "ADA",
-      "value": "",
-      "img": "./images/payments/ada.svg"
-    },
-    {
       "id": "trx",
       "label": "Tron",
       "value": "TUu81KsyW38VLHVdW4fLiLYXawFyJ6M3N4",
